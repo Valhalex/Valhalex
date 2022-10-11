@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on react-ecommerce-clothing<br>👯 I’m looking to collaborate on UI & UX Design -> Fullstack Implementation<br>🌱 I’m currently learning Next.JS<br>💬 Ask me about my passions!<br>⚡ Fun fact: I am passionate about 2D and 3D art, Storytelling, Animation, Music
+🔭 I’m currently working on react-ecommerce-clothing<br>👯 I’m looking to collaborate on UI & UX Design -> Fullstack Implementation<br>🌱 I’m currently learning Next.JS<br>💬 Ask me about what an average day is like!<br>⚡ Fun fact: In my spare time i dabble in 2D and 3D art, Storytelling, Animation, Music, and I love to talk about blockbuster films and video games!
 
 
 ## 🌐 Socials:

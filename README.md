@@ -2,8 +2,15 @@
 🔭 I’m currently working on react-ecommerce-clothing<br>👯 I’m looking to collaborate on UI & UX Design -> Fullstack Implementation<br>🌱 I’m currently learning Next.JS<br>💬 Ask me about what an average day is like!<br>⚡ Fun fact: In my spare time i dabble in 2D and 3D art, Storytelling, Animation, Music, and I love to talk about blockbuster films and video games!
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Valhalex96) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Valhalex96) 
+## 🔥My Top Repo's
+
+<div style="display: flex; justify-center: flex-start;">
+  <div style="margin-right: .25rem; margin-bottom: .5rem">
+    <h3>Crown Clothing Store</h3>
+    <p>The brand made for you. Shop and browse our market of the latest trendy fashions.</p>
+   <a class="display-card" style="display: block" href="https://github.com/Valhalex/react-ecommerce-clothing"><img width="278" src="https://i.imgur.com/aBvvorX.png" alt="crown sneaker store"></a>
+</div>
+<div style="margin-right: .25rem; margin-bottom: .5rem">
 
 
 # 💻 Tech Stack:
